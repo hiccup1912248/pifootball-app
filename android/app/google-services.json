@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813658181660",
+    "project_id": "pifootball",
+    "storage_bucket": "pifootball.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813658181660:android:f5f63293be4c21a0fecfd9",
+        "android_client_info": {
+          "package_name": "com.example.pifootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813658181660-5ll7phedmni1tndco64d7sct417o7crh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_PJOsz-xtA87Lltva6P62jfq9RK3WWOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813658181660-5ll7phedmni1tndco64d7sct417o7crh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
